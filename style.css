@@ -1,27 +1,26 @@
+body {
+    background-image: url('spiration-light.png');
+}
+
 #name {
     font-family: Georgia
-    color: #4aaaa5;
 }
 
 h2 {
     font-family: Georgia
-    color: #4aaaa5;
-}
-
-h3 {
-    font-family: Georgia
-    color: #4aaaa5;
 }
 
 p {
     font-family: Helvetica
+}
+
+p {
     color: #777777;
 }
 
-.footer {
-    font-family: Arial
-    background-color: #666666;
-    float: bottom;
+#paM {
+    text-align: justify;
+    background-color: #f7f7f7;
 }
 
 ul {
@@ -33,7 +32,7 @@ ul {
 }
 
 li {
-    float: left;
+    float: right;
 }
 
 li a {
@@ -56,19 +55,19 @@ li a:hover {
 	transition: 0.5s;
 }
 
+#cwM {
+    color: #4aaaa5
+}
+
+#header {
+    color: #4aaaa5;
+}
+
 #main {
 	float: left;
 	width: 65%;
 	overflow: hidden;
-}
-
-.github-button {
-	background: url('github-logo.png') left center no-repeat;
-	padding-left: 15px
-}
-
-.linkedin-button {
-	background: url('linkedin-logo.png');
+    color: #4aaaa5;
 }
 
 input[type=text], select, textarea {
@@ -99,4 +98,8 @@ input[type=submit]:hover {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
+}
+
+footer {
+    font-family: Arial
 }

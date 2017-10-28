@@ -1,27 +1,21 @@
 #name {
-    font-family: Georgia
-    color: #4aaaa5;
+    font-family: 'Raleway', sans-serif;
 }
 
 h2 {
-    font-family: Georgia
-    color: #4aaaa5;
+    font-family: 'Raleway', sans-serif;
 }
 
 h3 {
-    font-family: Georgia
-    color: #4aaaa5;
+    font-family: 'Raleway', sans-serif;
 }
 
 p {
-    font-family: Helvetica
-    color: #777777;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .footer {
-    font-family: Arial
-    background-color: #666666;
-    float: bottom;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 ul {
@@ -63,8 +57,7 @@ li a:hover {
 }
 
 .github-button {
-	background: url('github-logo.png') left center no-repeat;
-	padding-left: 15px
+	background: url('github-logo.png')
 }
 
 .linkedin-button {
